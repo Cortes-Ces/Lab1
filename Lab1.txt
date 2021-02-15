@@ -1,0 +1,26 @@
+Cesar Cortes 
+Lab 1
+CISC 3140
+
+
+Our team, group one, decided that we should create a flash game using web development skills. 
+When we discussed the idea, everyone was onboard. We came to a decision due to the majority of us growing
+up playing video games. This gave us an advantage in how to tackle the idea and expand on it. Although we had
+different opinions in what kind of fame it should be. We finally decided to create a flash gamme with a shooter genre.
+Expanding on the idea, we decided to add multiplayer and in-game transactions to increase our revenue. 
+	The team was efficiently communicative, and we further expanded more ideas for the final product of the game.
+For instance, we will add story, UI/UX and have sponsors on YouTube to make our game well known.
+The budget of our game will mostly be invested in visuals and aesthetics to attract players around the world.
+The visuals will increase the player base into buying aesthetics for their characters.
+	Although the game is online, we discussed that there should be different game modes. The team
+came up with two types of game modes, death match and capture the flag. Even though there are only two game modes,
+we decided what will cause the player to win and what score should be the max score. There were so many factors
+to discuss to determine when a player has won and what objectives they will have to do.	
+	Our group was large, so we decided to split into smaller teams by the progamming language we are more
+effiently with. The majority in our group are proficient in Java. However, the rest are proficient in 
+JavaScript and C++. Since most of the group were good with Java, we decided not to split into smaller groups.
+	Finally, we had to decide what the game should be called. We decided to name the game "MAREEO Shooting With Them."
+Brainstorming ideas with a group is easier than working alone. Sometimes working alone you have blank ideas and often 
+you get stuck. However, with a team if you ever get stuck then they can pick up on ideas until you're ready to contribute with more ideas.
+This collaboration was easy since we were all communicating. However, I believe it would've been easier if it were in person and everybody had
+written the ideas in person than online.

@@ -1,3 +1,2 @@
 # Lab1
-
--Collaborating in Group1 to create a flash game
+Text document details of collaborating in Group1 to create a flash game.
